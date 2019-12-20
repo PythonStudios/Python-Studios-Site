@@ -1,0 +1,21 @@
+.HEADER, .HT {
+            text-align:Center;
+            padding:6px;
+            content:2px;
+            background-color:DarkGreen;
+            color:LightGrey;
+            z-index:10;
+        }
+        
+        a:over {
+            color:rgb(64, 255, 0);
+        }
+        
+        a:active {
+            background-color:rgb(20, 122, 0);
+        }
+        
+        a {
+            color:Grey;
+        }
+        
